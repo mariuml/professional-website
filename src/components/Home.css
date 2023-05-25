@@ -1,0 +1,29 @@
+:root {
+  --theme-color-1: #ffa473;
+  --theme-color-2: #f5c15d;
+  font-family: "Habibi", serif;
+}
+
+/* Hero image positioning */
+
+#HeroImage {
+  
+}
+
+/* Headline styling */
+
+#HeroHeadline {
+  color: var(--theme-color-1);
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 80px;
+  
+}
+
+#HeroSubheading {
+  color: var(--theme-color-1);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+}
